@@ -17,6 +17,17 @@ body {
     margin-right: auto;
 }
 
+.order-header {
+    margin: 0 0 35px;
+/*    margin-top: -5%;
+*/    font-size: 45px;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #FF5E3A;
+}
+
 input {
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
     margin-bottom: 2%;
@@ -285,8 +296,8 @@ a:focus {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-/*    background: url(http://i.imgur.com/VvhKqQQ.jpg) no-repeat center center scroll;
-*/    background-color: #000;
+    background: url(http://i.imgur.com/Fqe45Jr.jpg) no-repeat center center scroll;
+    background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
